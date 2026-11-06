@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arthur-dy-lee.github.io/codearthur-policies/sitemap.xml
